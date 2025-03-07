@@ -13,7 +13,9 @@ Importance of software engineering include;
  - security - protect software from cyber threats by implementing practice such as authentication and encription to secure users details.
     
 #Identify and describe at least three key milestones in the evolution of software engineering.
->The Emergence o
+>The Emergence of structured programming from 1960s to 1970s
+>before 1970s , software was unstructured and difficult to manage and maintain not also was it difficult to understand.but structured programming solved the problem by advocating use of logical structures like conditionals and loops.
+>
 -The Emergence of Structured Programming (1960s-1970s)
  Prior to the 1970s, software was often written in an unstructured, "spaghetti code" fashion, which was difficult to manage, understand, and maintain. The concept of structured programming emerged as a solution to these problems. Influential figures like Edsger Dijkstra and C.A.R. Hoare championed the use of structured programming, advocating for the use of logical structures like loops, conditionals, and subroutines.
 Impact: This approach emphasized clarity, modularity, and the reduction of complexity, which laid the foundation for the development of modern programming practices. It also led to the creation of programming languages like C and Pascal that supported structured programming principles.
