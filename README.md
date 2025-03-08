@@ -7,7 +7,7 @@ Software Engineering Day1 Assignment
 ##Explain what software engineering is and discuss its importance in the technology industry?
  - Software Engineering is an application of principles to the design,development,testing,deployment and maintainace of software. 
 Importance of software engineering include;
- - efficiency - helps in optimizing developer workflow and maintaining high quality standard.
+ - efficiency - helps in  high quality standard.
  - scalability - ensures the system can handle increased load without it's perfomace being affected.
  - reliability - ensures software structured methodologies to design and develop software is bug free and reliable.
  - security - protect software from cyber threats by implementing practice such as authentication and encription to secure users details.
@@ -69,40 +69,30 @@ while;
   - ensures software requirements are met before deploying. 
   - analyses product for bugs and suggests solutions for more efficiency.
   - uses open source tools for developing and executing automation scripts.
- >Project manager - leads and responsible for assembling software development team
-  - 
-  - discuss the project and it's requirements with the client and software developers.
-  - creates blueprint for the project.
-  - tracking and communicating information regarding the project milestone.
-  - deliver the complete software to the client and regularly check its performance.
+ >Project manager - leads and is responsible for assembling software development team.
+  - discusses the project's requirements with developers and software client.
+  - responsible for tracking and communicating on project milestone
+  - has project's blueprint
+  - gives final complete software to client and ensures required performance. 
 
 
-#Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
- > An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and 
-  debug code, sometimes with value-adding tools that reduce development efforts. example ,Visual Studio Code (VSCode)
-importance:
-  -Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or 
-  editing the source code.
-  -An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These visual cues make the source code more readable 
-  and give instant feedback about accidental syntax errors.
-  -An IDE can make suggestions to complete a code statement when the developer begins typing.
-  -IDEs increase programmer productivity by performing repeatable development tasks that are typically part of every code change. The following are some examples of regular 
-  coding tasks that an IDE carries out.
-  -An IDE compiles or converts the code into a simplified language that the operating system can understand. - Some programming languages implement just-in-time compiling, in 
-  which the IDE converts human-readable code into machine code from within the application.
-  -The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex integration tests are run.
-  Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by 
-  human error in real time, even as the developer is typing.
->Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. example, Git
-Importance:
-  -Collaboration: Enables multiple developers to work on the same codebase without conflicts.
-  -Change Tracking: Records detailed history of changes, allowing easy analysis of each modification. 
-  -Branching and Merging: Supports creating branches for new features and merging them back into the main code.
-  -Error Recovery: Allows reverting to previous versions if new changes introduce errors
+##Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each? 
+  >An integrated development environment is a software platform that enables building of other software applications by providing area to write code, compile and debug code with tools such as; Vscode that makes it easy and reduces one's efforts.
+ - It's importance:
+  - Knows about programming language syntax hence contains features for automatically writing source codes.
+  - can make suggestions to complete code statement when developer starts typing.
+  - can edit written code text automatically by maybe making some of the words bold or italic or use of different font colors making code more readable.
+  - increases programmers productivity by performing repeatable tasks for development.
+  - allows developer to perform unit tests locally before integration of software with other developers' code.
+  >Version Control Systems- are software tools that manage changes of source code over time for development of code such as;Git.
+  - It's importance is:
+    - enables multiple interactions among developers to work on same project without any conflicts.
+    - records detailed history of changes enhancing easy time in analysis every modification.
+    - supports creation of branches and merging to main code.
+    - allows going back to previous versions if errors emerge due to new changes.
 
 
-
-#What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+##What are some common challenges faced by software engineers? Provide strategies to overcome these challenges? 
 -rapid technological advancement places considerable pressure on software engineers to stay current.
  Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
 -Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
