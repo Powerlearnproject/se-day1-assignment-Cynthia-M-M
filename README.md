@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-#Explain what software engineering is and discuss its importance in the technology industry?
+##Explain what software engineering is and discuss its importance in the technology industry?
  - Software Engineering is an application of principles to the design,development,testing,deployment and maintainace of software. 
 Importance of software engineering include;
  - efficiency - helps in optimizing developer workflow and maintaining high quality standard.
@@ -12,7 +12,7 @@ Importance of software engineering include;
  - reliability - ensures software structured methodologies to design and develop software is bug free and reliable.
  - security - protect software from cyber threats by implementing practice such as authentication and encription to secure users details.
     
-#Identify and describe at least three key milestones in the evolution of software engineering?
+##Identify and describe at least three key milestones in the evolution of software engineering?
  >The Emergence of structured programming from 1960s to 1970s
   -> before 1970s , software was unstructured and difficult to manage and maintain not also was it difficult to understand, but structured programming solved the problem by 
      advocating use of logical structures like conditionals and loops.
@@ -29,47 +29,48 @@ Importance of software engineering include;
            Improved software quality,reduced development time and allowed effectiv respond to evolving customer needs.
 
 
-#List and briefly explain the phases of the Software Development Life Cycle?
- -planning - identify the software requirement or purpose and scope.
- -requirement analysis - identify the final user specification. 
- -design - building system architecture
- -coding - converting software design into tangible code.
- -testing - examine the software for any bugs and glitches
- -Deployment - release software to production environments
- -Maintenance and support -provide bug fixes,updates and enhancements
+##List and briefly explain the phases of the Software Development Life Cycle?
+ - planning - identifying softwares' requirement, scope and purpose.
+ - requirement analysis - identifying the final useer' specification. 
+ - designing - creating system architecture. 
+ - coding - by converting software designs to tangible code. 
+ - testing - examines software for errors and bugs. 
+ - deploying - Software is released into production environments.
+ - maintaining and support - provides updates, fixing of bugs and enhancements. 
 
 
-#Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate?
- >Waterfall methodology is a traditional, linear, and sequential approach to software development. It is often best suited for projects with clear and well-defined requirements 
-  where changes are minimal.
-    - Linear and sequential, each phase is completed before moving on. 
-    - there is Low flexibility,
-    - changes are hard to incorporate once a phase is complete.
-    - Customer feedback comes late, after the product is developed.
-    - Testing is done at the end of the development process.
-  -> it can be appropriate when a company needs to develop a tax compliance software for a specific year. The regulations and features are well-defined and unlikely to change 
-     during the development process. Waterfall would be ideal here, as the project can move through each phase sequentially, with clear deadlines for each milestone.
-while,
- >Agile methodology is an iterative and incremental approach to software development that emphasizes flexibility, customer collaboration and adaptability to changing 
-  requirements.
-    - Iterative and incremental, with multiple cycles (sprints). 
-    - High flexibility, adapts to changing requirements. 
-    - Regular customer feedback is incorporated into every sprint. 
-    - Testing is continuous and done after each iteration.
- -> it can be approprate when startup is developing a new mobile application for a service that doesn't have a fully defined market. As the app is being developed, the company receives feedback from users and iteratively refines the app features based on that input. Agile is ideal here because the requirements will likely evolve as more is learned from user behavior.
+##Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate?
+ >Waterfall Methodology is traditional, sequential and linear approach to software development.
+  - it's appropriate to use for projects that are clear, well defined and minimal to changes.
+  - in waterfall methodology each step is completed before the next step.
+  - has low flexibility. 
+  - hard to incorporate changes after step is completed.
+  - there's delay in customer's feedback as it comes after development of product.
+  - tests are done at the end of development.
+  ->it can be used if a company has to develop a tax compliance software for a specific term, it's regulations and features are defined well and rare to change.So in the development process waterfall would be ideal here since the project can move across each step sequentially with clear deadlines of every milestone. 
+while;
+ >Agile Methodology is an iterative and incremental approach to the development of software to emphasize flexibility, adaptivity to changing requirements and customer collaboration. 
+  - It has multiple cycles. 
+  - has high flexibility. 
+  - able to adapt to changing requirements.
+  - enables regular customer's feedback incorporation into every step.
+  - tests are continuous and are after each step. 
+ -> it can be used when company wants to develop a mobile application for a service that lucks a fully funded defined market. As app is continuing to be developed it's company receives feedback from users and iteratively amends app features based on that input.
+    - Agile is ideal here since it's requirements are likely to change and more feedback that is needed will be able to be achieved. 
 
 
-#Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team?
- >Software Developer - developing applications,programs and systems using programming languages and frameworks.
-  - maintaining and updating software to keep it functional. 
-  - collaborating with other team members to ensure best practice when developing software.
-  - reporting to the project manager about the progress of the software development.
- >Quality Assurance Engineer - collaborate with stakeholders to understand and clarify software requirements.
-  - create development standards and procedures for the programmers to follow
-  - confirm that the software meets the requirement before deployment. 
-  - analyse the product to identify bugs and suggest changes to make them more efficient. 
-  - develop and execute automation scripts using open source tools.
- >Project Manager - assembles and lead the software development team.
+##Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team?
+ >Software Developer - develops applications, systems and programs using programming languages and frameworks.
+  - maintains and updates software until it functions as supposed to.
+  - collaborates with software development team to enable best performance when developing it's software.
+  - reports progress of software development to the project manager. 
+ >Quality Assurance Engineer - collaborates with stakeholders to clarify software requirements.
+  - creates standards and procedures for development to the programmers 
+  - ensures software requirements are met before deploying. 
+  - analyses product for bugs and suggests solutions for more efficiency.
+  - uses open source tools for developing and executing automation scripts.
+ >Project manager - leads and responsible for assembling software development team
+  - 
   - discuss the project and it's requirements with the client and software developers.
   - creates blueprint for the project.
   - tracking and communicating information regarding the project milestone.
@@ -139,17 +140,18 @@ Importance:
  -language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
 
-#Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-"Write something about technology."
+##Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective? 
+ - Example of vague prompt
+    'write about technology.'
+ - Improved prompt
+    'write an article about how AI has transformed healthcare and it's impact on patient care and diagnosis.' 
 
 Clear, Specific, and Concise Prompt:
-"Write a 300-word article discussing how artificial intelligence is transforming healthcare, focusing on its impact on diagnostics and patient care."
+"Write a 300-word article discussing how artificial intelligence is transforming healthcare, focusing on its impact on dia
 
 Explanation of Why the Improved Prompt is More Effective:
 Clear Focus: The original prompt is very broad, leaving too much open to interpretation. "Write something about technology" could result in any type of content, from a general overview of all technology fields to a very specific technology niche. The improved prompt narrows down the topic to artificial intelligence (AI) and its impact on healthcare, providing clear direction.
 
 Specific Audience/Subject Matter: The improved prompt specifies the impact on healthcare, guiding the writer to focus on a particular sector rather than technology as a whole. This helps in creating more targeted, relevant content.
-
-Actionable Instructions: The improved prompt explicitly mentions the task—writing an article of a certain length (300 words) and focusing on diagnostics and patient care. This not only helps the writer understand the scope but also ensures that the article covers the important aspects of the topic.
 
 Conciseness: The improved prompt is direct and to the point, cutting out unnecessary ambiguity while keeping the instructions concise and actionable.
