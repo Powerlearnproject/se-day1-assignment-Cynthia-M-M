@@ -112,29 +112,26 @@ while;
 
 
 ##Explain the different types of testing (unit, integration, system, and acceptance) and their importance? 
-
-in software quality assurance.
->Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. 
-- it ensures that each unit performs its intended function correctly, isolated from other components.Integration tests - verify that different modules or services used by your application work well together.
- - help to ensure data flows smoothly between modules and interfaces work as expected.
-> System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
- -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
->Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
-- check Whether the software meets the needs of the end-user and is ready for deployment.
+ >unit test - involve testing each individual methods and functions of classes, modules and components used by developer close to the source of application. 
+   - is important because it ensures each unit performs as intended even if isolated from other components.
+ >integration test - verifies if different modules and services perform well together in ones application.
+   - is important because it ensures the flow of data is smooth between modules and interfaces operate as intended.
+ >system test -  deals with the whole software system with all it's functionalities and interactions
+   - it's important because it verifies that one's system meets all requirements.
+ >acceptance test - ia a formal test verifying if system meets business requirements and need the whole application to be running while testing.
+   - it's important because it helps to check if software meets end-user needs'and is ready to be run. 
 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 ##Define prompt engineering and discuss its importance in interacting with AI models? 
-prompt engineering  is  the practice of crafting effective prompts to guide AI models in generating desired output.
-Importance:
- -Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing 
-                             human bias in the large language models’ training data.
- -Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
- -developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large 
- -language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
-
+ >prompt engineering is the act of crafting concise efficient prompts to help AI models output wanted response in the first prompt. 
+    >it's importance:
+   - Makes it easy for users to get relevant results improving their experiences.
+   - increases flexibility due to ability to create prompts with instructions highlighting logical links and patterns.
+   - enables one to correct errors to code if one prompts the Ai search engine. 
+     
 
 ##Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective? 
  - Example of vague prompt
